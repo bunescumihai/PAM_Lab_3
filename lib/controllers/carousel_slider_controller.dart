@@ -16,16 +16,13 @@ class CarouselSliderController1 extends GetxController{
   }
 
   Future<void> fetchBarbershops() async{
-
     await Future.delayed(Duration(seconds: 1));
 
-    // Load more barbershops from the original JSON data
     String jsonString = await rootBundle.loadString('assets/barbershop.json');
     Map<String, dynamic> jsonData = json.decode(jsonString);
     List<dynamic> barbershopsJsonList = jsonData['most_recommended'];
 
     barberList.value = barbershopsJsonList.map((v) => Barbershop.fromJson(v)).toList().cast<Barbershop>();
-
   }
 
   setSlideNumber(int index){

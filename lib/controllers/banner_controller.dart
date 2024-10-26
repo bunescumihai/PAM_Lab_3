@@ -25,6 +25,4 @@ class BannerController extends GetxController{
     banner.value = Banner.fromJson(bannerJson);
 
   }
-
-
 }
