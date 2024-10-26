@@ -1,6 +1,6 @@
 import "package:flutter/material.dart";
-import "package:lab_2/shared/header/intro.dart";
-import "package:lab_2/shared/header/user_simple.dart";
+import "package:lab_3/shared/header/intro.dart";
+import "package:lab_3/shared/header/user_simple.dart";
 
 import "../../moks/users.dart";
 

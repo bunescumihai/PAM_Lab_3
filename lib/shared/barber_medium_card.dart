@@ -1,6 +1,6 @@
 import "package:flutter/material.dart";
 import "package:font_awesome_flutter/font_awesome_flutter.dart";
-import "package:lab_2/models/barbershop.dart";
+import "package:lab_3/models/barbershop.dart";
 
 class BarberCard extends StatelessWidget {
   BarberCard(this._barbershop, {super.key});

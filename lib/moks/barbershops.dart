@@ -1,4 +1,4 @@
-import 'package:lab_2/models/barbershop.dart';
+import 'package:lab_3/models/barbershop.dart';
 
 List<Barbershop> barbershops = [
   Barbershop("Twinsky Monkey Barber & Men Stuff", "London", 4.3, "assets/images/barbershops/barbershop_1.jpg"),

@@ -1,9 +1,9 @@
 import "package:carousel_slider/carousel_slider.dart";
 import "package:flutter/material.dart";
 import 'package:get/get.dart';
-import "package:lab_2/controllers/barbershop_controller.dart";
-import "package:lab_2/moks/barbershops.dart";
-import "package:lab_2/shared/barber_medium_card.dart";
+import "package:lab_3/controllers/barbershop_controller.dart";
+import "package:lab_3/moks/barbershops.dart";
+import "package:lab_3/shared/barber_medium_card.dart";
 
 import "../../controllers/carousel_slider_controller.dart";
 import "../barber_big_card.dart";

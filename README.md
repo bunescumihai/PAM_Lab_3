@@ -1,4 +1,4 @@
-# lab_2
+# lab_3
 
 BarberShop
 
