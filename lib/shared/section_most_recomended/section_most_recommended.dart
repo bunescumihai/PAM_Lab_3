@@ -8,18 +8,10 @@ import "package:lab_3/shared/barber_medium_card.dart";
 import "../../controllers/carousel_slider_controller.dart";
 import "../barber_big_card.dart";
 
-class SectionMostRecommended extends StatefulWidget {
-  const SectionMostRecommended({super.key});
-
-  @override
-  State<SectionMostRecommended> createState() => _SectionMostRecommendedState();
-}
-
-class _SectionMostRecommendedState extends State<SectionMostRecommended> {
+class SectionMostRecommended extends StatelessWidget{
 
   final BarbershopController barbershopController = Get.find<BarbershopController>();
   final CarouselSliderController1 carouselSliderController = Get.put(CarouselSliderController1());
-
 
   @override
   Widget build(BuildContext context) {
