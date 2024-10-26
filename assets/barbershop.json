@@ -1,0 +1,192 @@
+{
+  "banner": {
+    "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fG5hdHVyZXxlbnwwfHx8fDE2ODI4NTQ0NzA&ixlib=rb-1.2.1&q=80&w=400",
+    "button_title": "Booking now"
+  },
+  "nearest_barbershop": [
+    {
+      "name": "Barbershop 1",
+      "location_with_distance": "Area 1 (1.1 km)",
+      "image": "assets/images/barbershops/barbershop_1.jpg",
+      "review_rate": 4.1
+    },
+    {
+      "name": "Barbershop 2",
+      "location_with_distance": "Area 2 (1.2 km)",
+      "image": "assets/images/barbershops/barbershop_2.webp",
+      "review_rate": 4.2
+    },
+    {
+      "name": "Barbershop 3",
+      "location_with_distance": "Area 3 (1.3 km)",
+      "image": "assets/images/barbershops/barbershop_3.jpg",
+      "review_rate": 4.3
+    },
+    {
+      "name": "Barbershop 4",
+      "location_with_distance": "Area 4 (1.4 km)",
+      "image": "assets/images/barbershops/barbershop_4.jpg",
+      "review_rate": 4.4
+    },
+    {
+      "name": "Barbershop 5",
+      "location_with_distance": "Area 5 (1.5 km)",
+      "image": "assets/images/barbershops/barbershop_5.jpg",
+      "review_rate": 4.5
+    },
+    {
+      "name": "Barbershop 6",
+      "location_with_distance": "Area 6 (1.6 km)",
+      "image": "assets/images/barbershops/barbershop_4.jpg",
+      "review_rate": 4.6
+    },
+    {
+      "name": "Barbershop 7",
+      "location_with_distance": "Area 7 (1.7 km)",
+      "image": "assets/images/barbershops/barbershop_3.jpg",
+      "review_rate": 4.7
+    },
+    {
+      "name": "Barbershop 8",
+      "location_with_distance": "Area 8 (1.8 km)",
+      "image": "assets/images/barbershops/barbershop_2.webp",
+      "review_rate": 4.8
+    },
+    {
+      "name": "Barbershop 9",
+      "location_with_distance": "Area 9 (1.9 km)",
+      "image": "assets/images/barbershops/barbershop_1.jpg",
+      "review_rate": 4.9
+    },
+    {
+      "name": "Barbershop 10",
+      "location_with_distance": "Area 10 (2.0 km)",
+      "image": "assets/images/barbershops/barbershop_3.jpg",
+      "review_rate": 4.0
+    },
+    {
+      "name": "Barbershop 11",
+      "location_with_distance": "Area 11 (2.1 km)",
+      "image": "assets/images/barbershops/barbershop_2.webp",
+      "review_rate": 4.1
+    },
+    {
+      "name": "Barbershop 12",
+      "location_with_distance": "Area 12 (2.2 km)",
+      "image": "assets/images/barbershops/barbershop_4.jpg",
+      "review_rate": 4.2
+    },
+    {
+      "name": "Barbershop 13",
+      "location_with_distance": "Area 13 (2.3 km)",
+      "image": "assets/images/barbershops/barbershop_5.jpg",
+      "review_rate": 4.3
+    },
+    {
+      "name": "Barbershop 14",
+      "location_with_distance": "Area 14 (2.4 km)",
+      "image": "assets/images/barbershops/barbershop_2.webp",
+      "review_rate": 4.4
+    },
+    {
+      "name": "Barbershop 15",
+      "location_with_distance": "Area 15 (2.5 km)",
+      "image": "assets/images/barbershops/barbershop_3.jpg",
+      "review_rate": 4.5
+    },
+    {
+      "name": "Barbershop 16",
+      "location_with_distance": "Area 16 (2.6 km)",
+      "image": "assets/images/barbershops/barbershop_4.jpg",
+      "review_rate": 4.6
+    },
+    {
+      "name": "Barbershop 17",
+      "location_with_distance": "Area 17 (2.7 km)",
+      "image": "assets/images/barbershops/barbershop_5.jpg",
+      "review_rate": 4.7
+    },
+    {
+      "name": "Barbershop 18",
+      "location_with_distance": "Area 18 (2.8 km)",
+      "image": "assets/images/barbershops/barbershop_1.jpg",
+      "review_rate": 4.8
+    },
+    {
+      "name": "Barbershop 19",
+      "location_with_distance": "Area 19 (2.9 km)",
+      "image": "assets/images/barbershops/barbershop_4.jpg",
+      "review_rate": 4.9
+    },
+    {
+      "name": "Barbershop 20",
+      "location_with_distance": "Area 20 (3.9 km)",
+      "image": "assets/images/barbershops/barbershop_3.jpg",
+      "review_rate": 4.2
+    }
+  ],
+  "most_recommended": [
+    {
+      "name": "Master Piece Barbershop - Haircut Styling",
+      "location_with_distance": "Downtown (3 km)",
+      "image": "assets/images/barbershops/barbershop_1.jpg",
+      "review_rate": 4.9
+    },
+    {
+      "name": "Sharp Edge Barbers - Grooming Services",
+      "location_with_distance": "Eastside (4.5 km)",
+      "image": "assets/images/barbershops/barbershop_2.webp",
+      "review_rate": 4.8
+    },
+    {
+      "name": "Gentlemen's Cut & Style",
+      "location_with_distance": "Old Town (2 km)",
+      "image": "assets/images/barbershops/barbershop_3.jpg",
+      "review_rate": 4.7
+    },
+    {
+      "name": "Classic Trim Barbershop",
+      "location_with_distance": "West End (6 km)",
+      "image": "assets/images/barbershops/barbershop_4.jpg",
+      "review_rate": 4.8
+    },
+    {
+      "name": "Fresh Fade Studio",
+      "location_with_distance": "North Hills (5.2 km)",
+      "image": "assets/images/barbershops/barbershop_5.jpg",
+      "review_rate": 4.9
+    }
+  ],
+  "list": [
+    {
+      "name": "Master Piece Barbershop - Haircut Styling",
+      "location_with_distance": "Banguntapan (5 km)",
+      "image": "assets/images/barbershops/barbershop_1.jpg",
+      "review_rate": 4.9
+    },
+    {
+      "name": "Sharp Edge Barbers - Grooming Services",
+      "location_with_distance": "Downtown (4 km)",
+      "image": "assets/images/barbershops/barbershop_5.jpg",
+      "review_rate": 4.8
+    },
+    {
+      "name": "Gentlemen's Cut & Style",
+      "location_with_distance": "Old Town (3.5 km)",
+      "image": "assets/images/barbershops/barbershop_2.webp",
+      "review_rate": 4.7
+    },
+    {
+      "name": "Classic Trim Barbershop",
+      "location_with_distance": "West End (6 km)",
+      "image": "assets/images/barbershops/barbershop_3.jpg",
+      "review_rate": 4.6
+    },
+    {
+      "name": "Fresh Fade Studio",
+      "location_with_distance": "North Hills (5.2 km)",
+      "image": "assets/images/barbershops/barbershop_4.jpg",
+      "review_rate": 4.9
+    }
+  ]
+}
