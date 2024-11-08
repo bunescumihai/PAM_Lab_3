@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import '../../controllers/barbershop_controller.dart';
-import '../barber_medium_card.dart';
+import '../../most_recomended/domain/barbershop_controller.dart';
+import '../../../shared/barber_medium_card.dart';
 
-class SectionNearestBarbershop extends StatelessWidget {
-  const SectionNearestBarbershop({super.key});
+class NearestBarbershop extends StatelessWidget {
+  const NearestBarbershop({super.key});
 
   @override
   Widget build(BuildContext context) {

@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 
-import '../models/banner.dart';
+import '../../../models/banner.dart';
 
 class BannerController extends GetxController{
 

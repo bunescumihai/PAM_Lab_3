@@ -1,5 +1,5 @@
 import "package:flutter/material.dart";
-import "package:lab_3/shared/header/intro.dart";
+import "package:lab_3/features/banner/presentation/banner.dart";
 import "package:lab_3/shared/header/user_simple.dart";
 
 import "../../moks/users.dart";
@@ -12,7 +12,7 @@ class Header extends StatelessWidget {
     return Column(
       children: [
         UserSimple(users[0]),
-        Intro()
+        SBanner()
       ],
     );
   }

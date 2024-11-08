@@ -1,10 +1,10 @@
 import "package:flutter/material.dart";
 import "package:flutter_svg/flutter_svg.dart";
-import "package:lab_3/controllers/banner_controller.dart";
+import "package:lab_3/features/banner/domain/banner_controller.dart";
 import "package:get/get.dart";
 import "package:lab_3/shared/header/user_simple.dart";
 
-class Intro extends StatelessWidget {
+class SBanner extends StatelessWidget {
   final BannerController bannerController = Get.put(BannerController());
 
   @override
